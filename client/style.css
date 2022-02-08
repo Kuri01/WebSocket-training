@@ -83,6 +83,11 @@ p {
   animation-duration: 3s;
 }
 
+.bot {
+  font-weight: lighter !important;
+  font-style: italic !important;
+}
+
 .message__author {
   font-size: 0.8rem;
   font-weight: bold;
